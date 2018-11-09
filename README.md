@@ -15,4 +15,8 @@ The goal of the project is to create a maze solver in pseudo-code.
 
 *  Add an option to upload an image with a maze.
 
+---
+
+#### Links
 [Wikipedia](https://en.wikipedia.org/wiki/Maze_solving_algorithm)
+[Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
